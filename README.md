@@ -5,7 +5,7 @@ My key strengths include:
 
 - Validating various payment methods (PIX, boletos, credit cards) and managing the complete payment cycle
 - Strong analytical capabilities, with a proven track record in identifying and addressing operational risks
- -Deepening data analysis skills through the TripleTen program, focusing on Python, SQL, and advanced analysis
+- Deepening data analysis skills through the TripleTen program, focusing on Python, SQL, and advanced analysis
 
 🧠 I'm currently learning advanced data analysis techniques, focusing on Python, SQL, Power BI and Tableau
 👥 I'm looking to collaborate on financial analytics projects that leverage data to drive strategic decision-making.
